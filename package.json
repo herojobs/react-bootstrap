@@ -32,6 +32,8 @@
     "CHANGELOG.md",
     "lib",
     "dist"
+    "src",
+    "tools"
   ],
   "keywords": [
     "react",
