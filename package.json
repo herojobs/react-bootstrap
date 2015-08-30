@@ -33,7 +33,8 @@
     "lib",
     "dist",
     "src",
-    "tools"
+    "tools",
+    "docs"
   ],
   "keywords": [
     "react",
