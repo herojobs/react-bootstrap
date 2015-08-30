@@ -31,7 +31,7 @@
     "README.md",
     "CHANGELOG.md",
     "lib",
-    "dist"
+    "dist",
     "src",
     "tools"
   ],
